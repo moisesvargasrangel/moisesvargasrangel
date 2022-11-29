@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moisesvargasrangel&label=Profile%20views&color=0e75b6&style=flat" alt="moisesvargasrangel" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m learning **Java EE, Android, React Native**
 
-- 🔭 I’m looking to collaborate on **technology companies**
+- 📱 I am currently working as a System Engineer at **Global Hitss**
 
 - 👨‍💻 All of my projects are available at [https://github.com/moisesvargasrangel](https://github.com/moisesvargasrangel)
 
