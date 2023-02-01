@@ -6,7 +6,7 @@
 
 - 🌱 I’m learning **Java EE, Android, React Native.**
 
-- 📱 I am currently working as a System Engineer at **Global Hitss.**
+- 📱 I am currently working as a Development Specialist at **Global Hitss.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/moisesvargasrangel](https://github.com/moisesvargasrangel)
 
